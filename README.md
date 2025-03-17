@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ullah</h1>
 <h3 align="center">A passionate CS grad from Dhaka, Bangladesh</h3>
 
-- 🔭 I’m currently working on **Speech detection**
+- 🔭 I’m currently working on **DSA Problems**
 
 - 🌱 I’m currently learning **Machine Learning**
 
