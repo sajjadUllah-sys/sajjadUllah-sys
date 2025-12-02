@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ullah</h1>
 <h3 align="center">A passionate CS grad from United International University, Dhaka, Bangladesh</h3>
+<h3 align="center">Currently doing my MSc in CSE at BRAC University, Dhaka, Bangladesh</h3>
 
 - 🔭 I’m currently working as **AI Developer**
 
