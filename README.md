@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ullah</h1>
 <h3 align="center">A passionate CS grad from United International University, Dhaka, Bangladesh</h3>
 
-- 🔭 I’m currently working on **DSA Problems**
+- 🔭 I’m currently working as **AI Developer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 📫 How to reach me **shafinsajjad07@gmail.com**
 
