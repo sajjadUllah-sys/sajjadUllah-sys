@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **AI Developer**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Factory Design Patterns**
 
 - 📫 How to reach me **shafinsajjad07@gmail.com**
 
